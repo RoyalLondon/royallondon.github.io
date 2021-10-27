@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Royal London"
-  avatar : "/assets/images/rl-logo-stacked.svg"
+  avatar : "/assets/images/bigrlg.jpg"
   bio    : "Royal London Author Bio"
   links:
     - label: "Website"
